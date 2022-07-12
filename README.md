@@ -18,6 +18,10 @@ SQL formation in DataCamp:
 *    [Intermediate SQL](https://github.com/MarkusHumetus/MarkusHumetus/blob/main/certificate_Introduction_SQL.pdf)
 
 
+Power BI formation in DataCamp::
+*  [Introduction to Power BI](https://github.com/MarkusHumetus/MarkusHumetus/blob/main/certificate_Introduction%20to%20Power%20BI.pdf)
+
+
 ## Contact Info
 
 Please, email-me to Marc.Humet.Datascience@gmail.com
