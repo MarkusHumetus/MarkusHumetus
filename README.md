@@ -3,7 +3,7 @@
 
 ### Hi there 👋
 
-I am Marc Humet, a passionate Junior Data Scientist /Analyst hoping to start my laboral career in data soon. 
+I am Marc Humet, a passionate Junior Data Scientist /Analyst hoping to start my laboral career in the data field soon. 
 
 ## Education
 Please check certifications courses of the following formations: 
