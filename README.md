@@ -23,6 +23,8 @@ Power BI formation in DataCamp::
 
 *  [Introduction to DAX for Power BI](https://github.com/MarkusHumetus/MarkusHumetus/blob/main/certificate_Introduction%20to%20DAX%20in%20Power%20BI.pdf)
 
+*  [Data Visualization in Power BI](https://github.com/MarkusHumetus/MarkusHumetus/blob/main/Data%20Visualization%20in%20Power%20BI.pdf)
+
 
 ## Contact Info
 
