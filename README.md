@@ -21,7 +21,7 @@ SQL formation in DataCamp:
 Power BI formation in DataCamp::
 *  [Introduction to Power BI](https://github.com/MarkusHumetus/MarkusHumetus/blob/main/certificate_Introduction%20to%20Power%20BI.pdf)
 
-*  [Introduction to DAX for Power BI](https://github.com/MarkusHumetus/MarkusHumetus/blob/main/certificate_Introduction%20to%20Power%20BI.pdf)
+*  [Introduction to DAX for Power BI](https://github.com/MarkusHumetus/MarkusHumetus/blob/main/certificate_Introduction%20to%20DAX%20in%20Power%20BI.pdf)
 
 
 ## Contact Info
