@@ -17,6 +17,9 @@ SQL formation in DataCamp:
 
 *    [Intermediate SQL](https://github.com/MarkusHumetus/MarkusHumetus/blob/main/certificate_Introduction_SQL.pdf)
 
+*    [PostgreSQL Summary Stats and Window
+Functions](https://github.com/MarkusHumetus/MarkusHumetus/blob/main/certificate_PostgreSQL_Summary_Stats_and_Window.pdf)
+
 
 Power BI formation in DataCamp::
 *  [Introduction to Power BI](https://github.com/MarkusHumetus/MarkusHumetus/blob/main/certificate_Introduction%20to%20Power%20BI.pdf)
