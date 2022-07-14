@@ -6,11 +6,11 @@
 I am Marc Humet, a passionate Junior Data Scientist /Analyst hoping to start my laboral career in the data field soon. 
 
 ## Education
-Please check certifications courses of the following formations: 
+Please check detailed certifications of courses of the following formations regarding Data Science: 
 
 [Bootcamp in Data Analytics and Data Science with Python](https://github.com/MarkusHumetus/MarkusHumetus/blob/main/CERT2218108041656576283365066.pdf) done in the IT-Academy (Jan 2022 -June 2022)
 
-SQL formation in DataCamp: 
+**SQL** formation in DataCamp: 
 *    [Introduction to SQL](https://githu-b.com/MarkusHumetus/MarkusHumetus/blob/main/certificate_Introduction_SQL.pdf)
 
 *    [Joining data in SQL](https://github.com/MarkusHumetus/MarkusHumetus/blob/main/certificate_Introduction_SQL.pdf)
@@ -21,7 +21,7 @@ SQL formation in DataCamp:
 Functions](https://github.com/MarkusHumetus/MarkusHumetus/blob/main/certificate%20PostgreSQL%20Summary%20Stats%20and%20Window.pdf)
 
 
-Power BI formation in DataCamp::
+**Power BI** formation in DataCamp::
 *  [Introduction to Power BI](https://github.com/MarkusHumetus/MarkusHumetus/blob/main/certificate_Introduction%20to%20Power%20BI.pdf)
 
 *  [Introduction to DAX for Power BI](https://github.com/MarkusHumetus/MarkusHumetus/blob/main/certificate_Introduction%20to%20DAX%20in%20Power%20BI.pdf)
