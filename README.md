@@ -20,6 +20,7 @@ Please check detailed certifications of courses of the following formations rega
 *    [PostgreSQL Summary Stats and Window
 Functions](https://github.com/MarkusHumetus/MarkusHumetus/blob/main/certificate%20PostgreSQL%20Summary%20Stats%20and%20Window.pdf)
 
+*    [Functions for Manipulating Data in PostgreSQL](https://github.com/MarkusHumetus/MarkusHumetus/blob/main/certificate_Functions%20for%20Manipulating%20Data%20in%20PostgreSQL.pdf)
 
 **Power BI** formation in DataCamp::
 *  [Introduction to Power BI](https://github.com/MarkusHumetus/MarkusHumetus/blob/main/certificate_Introduction%20to%20Power%20BI.pdf)
