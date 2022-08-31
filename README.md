@@ -22,6 +22,10 @@ Functions](https://github.com/MarkusHumetus/MarkusHumetus/blob/main/certificate%
 
 *    [Functions for Manipulating Data in PostgreSQL](https://github.com/MarkusHumetus/MarkusHumetus/blob/main/certificate_Functions%20for%20Manipulating%20Data%20in%20PostgreSQL.pdf)
 
+*    [Exploratory Data Analysis in SQL](https://github.com/MarkusHumetus/MarkusHumetus/blob/main/certificate_Exploratory%20Data%20Analysis%20in%20SQL.pdf)
+
+
+
 **Power BI** formation in DataCamp::
 *  [Introduction to Power BI](https://github.com/MarkusHumetus/MarkusHumetus/blob/main/certificate_Introduction%20to%20Power%20BI.pdf)
 
