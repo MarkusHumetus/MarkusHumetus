@@ -45,7 +45,9 @@ Functions](https://github.com/MarkusHumetus/MarkusHumetus/blob/main/certificate%
 
 ## Experience
 
-As junior Data Scientist/Analyst, I have limited laboral experience. To put in to practice learn new skills, train knowledge and   
+As junior Data Scientist/Analyst, I have limited laboral experience. To put in to practice learned new skills and knowledge I have been working in several 
+projects, some of them were part of coding competition events (also known as Hackathons), here I leave the link to the corresponding repositories and knowledges and technics used:
+* 
 
 
 ## Contact Info
