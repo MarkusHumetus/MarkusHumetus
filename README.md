@@ -43,6 +43,11 @@ Functions](https://github.com/MarkusHumetus/MarkusHumetus/blob/main/certificate%
 *  [Data Visualization in Power BI](https://github.com/MarkusHumetus/MarkusHumetus/blob/main/certificate_Data%20Visualization%20in%20Power%20BI.pdf)
 
 
+## Experience
+
+As junior Data Scientist/Analyst, I have limited laboral experience. To put in to practice learn new skills, train knowledge and   
+
+
 ## Contact Info
 
 Please, email-me to Marc.Humet.Datascience@gmail.com
