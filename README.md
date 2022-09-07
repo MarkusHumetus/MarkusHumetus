@@ -10,7 +10,10 @@ Please check detailed certifications of courses of the following formations rega
 
 [Bootcamp in Data Analytics and Data Science with Python](https://github.com/MarkusHumetus/MarkusHumetus/blob/main/CERT2218108041656576283365066.pdf) done in the IT-Academy (Jan 2022 -June 2022)
 
-**SQL** formation in DataCamp: 
+**SQL** formation in DataCamp to follow the career trak of [Data Analyst in SQL](https://github.com/MarkusHumetus/MarkusHumetus/blob/main/certificate_Data%20Analyst%20in%20SQL.pdf) included next 9 courses : 
+
+*    Understanding Data Visualization
+
 *    [Introduction to SQL](https://githu-b.com/MarkusHumetus/MarkusHumetus/blob/main/certificate_Introduction_SQL.pdf)
 
 *    [Joining data in SQL](https://github.com/MarkusHumetus/MarkusHumetus/blob/main/certificate_Introduction_SQL.pdf)
@@ -23,6 +26,12 @@ Functions](https://github.com/MarkusHumetus/MarkusHumetus/blob/main/certificate%
 *    [Functions for Manipulating Data in PostgreSQL](https://github.com/MarkusHumetus/MarkusHumetus/blob/main/certificate_Functions%20for%20Manipulating%20Data%20in%20PostgreSQL.pdf)
 
 *    [Exploratory Data Analysis in SQL](https://github.com/MarkusHumetus/MarkusHumetus/blob/main/certificate_Exploratory%20Data%20Analysis%20in%20SQL.pdf)
+
+*    [Data-Driven Decision Making in SQL](https://github.com/MarkusHumetus/MarkusHumetus/blob/main/certificate_Data-Driven%20Decision%20Making%20in%20SQL.pdf)
+
+*    [Data Communication Concepts](https://github.com/MarkusHumetus/MarkusHumetus/blob/main/certificate_Data%20Communication%20Concepts.pdf)
+
+
 
 
 
