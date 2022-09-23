@@ -10,7 +10,10 @@ Please check detailed certifications of courses of the following formations rega
 
 [Bootcamp in Data Analytics and Data Science with Python](https://github.com/MarkusHumetus/MarkusHumetus/blob/main/CERT2218108041656576283365066.pdf) done in the IT-Academy (Jan 2022 -June 2022)
 
-**SQL** formation in DataCamp: 
+**SQL** formation in DataCamp to follow the career trak of [Data Analyst in SQL](https://github.com/MarkusHumetus/MarkusHumetus/blob/main/certificate_Data%20Analyst%20in%20SQL.pdf) included next 9 courses : 
+
+*    Understanding Data Visualization
+
 *    [Introduction to SQL](https://githu-b.com/MarkusHumetus/MarkusHumetus/blob/main/certificate_Introduction_SQL.pdf)
 
 *    [Joining data in SQL](https://github.com/MarkusHumetus/MarkusHumetus/blob/main/certificate_Introduction_SQL.pdf)
@@ -20,6 +23,17 @@ Please check detailed certifications of courses of the following formations rega
 *    [PostgreSQL Summary Stats and Window
 Functions](https://github.com/MarkusHumetus/MarkusHumetus/blob/main/certificate%20PostgreSQL%20Summary%20Stats%20and%20Window.pdf)
 
+*    [Functions for Manipulating Data in PostgreSQL](https://github.com/MarkusHumetus/MarkusHumetus/blob/main/certificate_Functions%20for%20Manipulating%20Data%20in%20PostgreSQL.pdf)
+
+*    [Exploratory Data Analysis in SQL](https://github.com/MarkusHumetus/MarkusHumetus/blob/main/certificate_Exploratory%20Data%20Analysis%20in%20SQL.pdf)
+
+*    [Data-Driven Decision Making in SQL](https://github.com/MarkusHumetus/MarkusHumetus/blob/main/certificate_Data-Driven%20Decision%20Making%20in%20SQL.pdf)
+
+*    [Data Communication Concepts](https://github.com/MarkusHumetus/MarkusHumetus/blob/main/certificate_Data%20Communication%20Concepts.pdf)
+
+
+
+
 
 **Power BI** formation in DataCamp::
 *  [Introduction to Power BI](https://github.com/MarkusHumetus/MarkusHumetus/blob/main/certificate_Introduction%20to%20Power%20BI.pdf)
@@ -27,6 +41,13 @@ Functions](https://github.com/MarkusHumetus/MarkusHumetus/blob/main/certificate%
 *  [Introduction to DAX for Power BI](https://github.com/MarkusHumetus/MarkusHumetus/blob/main/certificate_Introduction%20to%20DAX%20in%20Power%20BI.pdf)
 
 *  [Data Visualization in Power BI](https://github.com/MarkusHumetus/MarkusHumetus/blob/main/certificate_Data%20Visualization%20in%20Power%20BI.pdf)
+
+
+## Experience
+
+As junior Data Scientist/Analyst, I have limited laboral experience. To put in to practice learned new skills and knowledge I have been working in several 
+projects, some of them were part of coding competition events (also known as Hackathons), here I leave the link to the corresponding repositories and knowledges and technics used:
+* 
 
 
 ## Contact Info
