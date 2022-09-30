@@ -32,7 +32,13 @@ Functions](https://github.com/MarkusHumetus/MarkusHumetus/blob/main//Data%20Anal
 *    [Data Communication Concepts](https://github.com/MarkusHumetus/MarkusHumetus/blob/main//Data%20Analyst_in_SQL_Data_camp/certificate_Data%20Communication%20Concepts.pdf)
 
 
+**Certificado profesional de Análisis de Datos de Google** by Coursera included next 8 courses : 
 
+*    Understanding Data Visualization
+
+*    [Aspectos básicos: Datos, datos, en todas partes]()
+
+*    [Joining data in SQL](https://github.com/MarkusHumetus/MarkusHumetus/blob/main//Data%20Analyst_in_SQL_Data_camp/certificate_Introduction_
 
 
 **Power BI** formation in DataCamp::
