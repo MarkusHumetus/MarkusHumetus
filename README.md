@@ -10,37 +10,37 @@ Please check detailed certifications of courses of the following formations rega
 
 [Bootcamp in Data Analytics and Data Science with Python](https://github.com/MarkusHumetus/MarkusHumetus/blob/main/CERT2218108041656576283365066.pdf) done in the IT-Academy (Jan 2022 -June 2022)
 
-**SQL** formation in DataCamp to follow the career trak of [Data Analyst in SQL](https://github.com/MarkusHumetus/MarkusHumetus/blob/main/certificate_Data%20Analyst%20in%20SQL.pdf) included next 9 courses : 
+**SQL** formation in DataCamp to follow the career trak of [Data Analyst in SQL](https://github.com/MarkusHumetus/MarkusHumetus/blob/main//Data%20Analyst_in_SQL_Data_camp/certificate_Data%20Analyst%20in%20SQL.pdf) included next 9 courses : 
 
 *    Understanding Data Visualization
 
-*    [Introduction to SQL](https://githu-b.com/MarkusHumetus/MarkusHumetus/blob/main/certificate_Introduction_SQL.pdf)
+*    [Introduction to SQL](https://github.com/MarkusHumetus/MarkusHumetus/blob/main/Data%20Analyst_in_SQL_Data_camp/certificate_Introduction_SQL.pdf)
 
-*    [Joining data in SQL](https://github.com/MarkusHumetus/MarkusHumetus/blob/main/certificate_Introduction_SQL.pdf)
+*    [Joining data in SQL](https://github.com/MarkusHumetus/MarkusHumetus/blob/main//Data%20Analyst_in_SQL_Data_camp/certificate_Introduction_SQL.pdf)
 
-*    [Intermediate SQL](https://github.com/MarkusHumetus/MarkusHumetus/blob/main/certificate_Introduction_SQL.pdf)
+*    [Intermediate SQL](https://github.com/MarkusHumetus/MarkusHumetus/blob/main//Data%20Analyst_in_SQL_Data_camp/certificate_Introduction_SQL.pdf)
 
 *    [PostgreSQL Summary Stats and Window
-Functions](https://github.com/MarkusHumetus/MarkusHumetus/blob/main/certificate%20PostgreSQL%20Summary%20Stats%20and%20Window.pdf)
+Functions](https://github.com/MarkusHumetus/MarkusHumetus/blob/main//Data%20Analyst_in_SQL_Data_camp/certificate%20PostgreSQL%20Summary%20Stats%20and%20Window.pdf)
 
-*    [Functions for Manipulating Data in PostgreSQL](https://github.com/MarkusHumetus/MarkusHumetus/blob/main/certificate_Functions%20for%20Manipulating%20Data%20in%20PostgreSQL.pdf)
+*    [Functions for Manipulating Data in PostgreSQL](https://github.com/MarkusHumetus/MarkusHumetus/blob/main//Data%20Analyst_in_SQL_Data_camp/certificate_Functions%20for%20Manipulating%20Data%20in%20PostgreSQL.pdf)
 
-*    [Exploratory Data Analysis in SQL](https://github.com/MarkusHumetus/MarkusHumetus/blob/main/certificate_Exploratory%20Data%20Analysis%20in%20SQL.pdf)
+*    [Exploratory Data Analysis in SQL](https://github.com/MarkusHumetus/MarkusHumetus/blob/main//Data%20Analyst_in_SQL_Data_camp/certificate_Exploratory%20Data%20Analysis%20in%20SQL.pdf)
 
-*    [Data-Driven Decision Making in SQL](https://github.com/MarkusHumetus/MarkusHumetus/blob/main/certificate_Data-Driven%20Decision%20Making%20in%20SQL.pdf)
+*    [Data-Driven Decision Making in SQL](https://github.com/MarkusHumetus/MarkusHumetus/blob/main//Data%20Analyst_in_SQL_Data_camp/certificate_Data-Driven%20Decision%20Making%20in%20SQL.pdf)
 
-*    [Data Communication Concepts](https://github.com/MarkusHumetus/MarkusHumetus/blob/main/certificate_Data%20Communication%20Concepts.pdf)
+*    [Data Communication Concepts](https://github.com/MarkusHumetus/MarkusHumetus/blob/main//Data%20Analyst_in_SQL_Data_camp/certificate_Data%20Communication%20Concepts.pdf)
 
 
 
 
 
 **Power BI** formation in DataCamp::
-*  [Introduction to Power BI](https://github.com/MarkusHumetus/MarkusHumetus/blob/main/certificate_Introduction%20to%20Power%20BI.pdf)
+*  [Introduction to Power BI](https://github.com/MarkusHumetus/MarkusHumetus/blob/main//Data%20Analyst_in_SQL_Data_camp/certificate_Introduction%20to%20Power%20BI.pdf)
 
-*  [Introduction to DAX for Power BI](https://github.com/MarkusHumetus/MarkusHumetus/blob/main/certificate_Introduction%20to%20DAX%20in%20Power%20BI.pdf)
+*  [Introduction to DAX for Power BI](https://github.com/MarkusHumetus/MarkusHumetus/blob/main//Data%20Analyst_in_SQL_Data_camp/certificate_Introduction%20to%20DAX%20in%20Power%20BI.pdf)
 
-*  [Data Visualization in Power BI](https://github.com/MarkusHumetus/MarkusHumetus/blob/main/certificate_Data%20Visualization%20in%20Power%20BI.pdf)
+*  [Data Visualization in Power BI](https://github.com/MarkusHumetus/MarkusHumetus/blob/main//Data%20Analyst_in_SQL_Data_camp/certificate_Data%20Visualization%20in%20Power%20BI.pdf)
 
 
 ## Experience
@@ -92,9 +92,9 @@ Here are some ideas to get you started:
 
 
 
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github//Data%20Analyst_in_SQL_Data_camp/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
 
-[contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
+[contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs//Data%20Analyst_in_SQL_Data_camp/contributors
 [forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
 [forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
 [stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
